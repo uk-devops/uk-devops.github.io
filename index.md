@@ -32,15 +32,4 @@ sections:
         text: Constantly monitor costs to offer the most cost efficient solution
         icon: fa-coins
 
-  - type: contact.html
-    section_id: contacts
-    title: Let's Get In Touch!
-    text: >-
-      Ready to start your next project with us? Send us an email
-      and we will get back to you as soon as possible!
-    actions:
-    - title: E-Mail
-      icon: fa-envelope
-      url: mailto:info@ukdevops.co.uk
-
 ---
